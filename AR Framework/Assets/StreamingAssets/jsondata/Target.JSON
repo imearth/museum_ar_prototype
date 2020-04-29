@@ -1,0 +1,27 @@
+{
+  "projectname": "Demo App",
+  "targets": [
+    {
+      "targetname": "01",
+      "scriptname": "water_cycle",
+      "type": "Video",
+      "position_x": "0",
+      "position_y": "0",
+      "position_z": "0",
+      "rotation_x": "0",
+      "rotation_y": "0",
+      "rotation_z": "0"
+    },
+    {
+      "targetname": "02",
+      "scriptname": "easy quiz",
+      "type": "Quiz",
+      "position_x": "0.5392912083997903",
+      "position_y": "0.44388893162064447",
+      "position_z": "0",
+      "rotation_x": "0",
+      "rotation_y": "0",
+      "rotation_z": "0"
+    }
+  ]
+}
